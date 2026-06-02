@@ -1,0 +1,21 @@
+[
+  {
+    "id": "folder_1780389339522",
+    "type": "folder",
+    "title": "理科",
+    "parentId": null,
+    "subject": "新規フォルダ"
+  },
+  {
+    "id": 1780389353143,
+    "type": "file",
+    "parentId": "folder_1780389339522",
+    "title": "化学式・イオン式・化学反応式・電離式",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://github.com/The-datebase-of-selfdriven/PDF/releases/download/v1.0/science.pdf",
+    "size": "0.0MB",
+    "date": "2026/6/2"
+  }
+]
