@@ -54,5 +54,19 @@
     "title": "高校生",
     "parentId": null,
     "subject": "新規フォルダ"
+  },
+  {
+    "id": "folder_1786712638819",
+    "type": "folder",
+    "title": "新規フォルダ",
+    "parentId": "folder_1780404458441",
+    "subject": "新規フォルダ"
+  },
+  {
+    "id": "folder_1786712639507",
+    "type": "folder",
+    "title": "新規フォルダ",
+    "parentId": "folder_1780404459136",
+    "subject": "新規フォルダ"
   }
 ]
