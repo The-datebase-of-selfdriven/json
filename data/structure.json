@@ -1,12 +1,5 @@
 [
   {
-    "id": "folder_1780404411207",
-    "type": "folder",
-    "title": "小学生",
-    "parentId": null,
-    "subject": "新規フォルダ"
-  },
-  {
     "id": "folder_1780404411568",
     "type": "folder",
     "title": "中学生",
@@ -56,24 +49,15 @@
     "subject": "新規フォルダ"
   },
   {
-    "id": "folder_1786712638819",
-    "type": "folder",
-    "title": "新規フォルダ",
-    "parentId": "folder_1780404458441",
-    "subject": "新規フォルダ"
-  },
-  {
-    "id": "folder_1786712639507",
-    "type": "folder",
-    "title": "新規フォルダ",
-    "parentId": "folder_1780404459136",
-    "subject": "新規フォルダ"
-  },
-  {
-    "id": "folder_1786712822531",
-    "type": "folder",
-    "title": "ｓダ",
-    "parentId": "folder_1786712639507",
-    "subject": "新規フォルダ"
+    "id": 1786713993690,
+    "type": "file",
+    "parentId": "folder_1780404458017",
+    "title": "歴史攻略クイズ〔HTML〕",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/nihonshiquiz_%E5%85%A8%E9%9D%A2%E4%BF%AE%E6%AD%A3%E7%89%88(3).html",
+    "size": "50.9KB",
+    "date": "2026/8/14"
   }
 ]
