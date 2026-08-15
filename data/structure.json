@@ -7,6 +7,13 @@
     "subject": "新規フォルダ"
   },
   {
+    "id": "folder_1786803161188",
+    "type": "folder",
+    "title": "その他",
+    "parentId": "folder_1780404411568",
+    "subject": "新規フォルダ"
+  },
+  {
     "id": "folder_1780404457110",
     "type": "folder",
     "title": "国語",
@@ -35,6 +42,18 @@
     "subject": "新規フォルダ"
   },
   {
+    "id": 1786713993690,
+    "type": "file",
+    "parentId": "folder_1780404458017",
+    "title": "文化史・年号史攻略クイズ〔HTML〕",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/%E6%97%A5%E6%9C%AC%E5%8F%B2%E3%82%AF%E3%82%A4%E3%82%BA",
+    "size": "50.9KB",
+    "date": "2026/8/14"
+  },
+  {
     "id": "folder_1780404458769",
     "type": "folder",
     "title": "英語",
@@ -49,15 +68,22 @@
     "subject": "新規フォルダ"
   },
   {
-    "id": 1786713993690,
+    "id": "folder_1786803217041",
+    "type": "folder",
+    "title": "塾教材解答用紙",
+    "parentId": "folder_1786803161188",
+    "subject": "新規フォルダ"
+  },
+  {
+    "id": 1786803236002,
     "type": "file",
-    "parentId": "folder_1780404458017",
-    "title": "文化史・年号史攻略クイズ〔HTML〕",
+    "parentId": "folder_1786803217041",
+    "title": "「攻略シリーズ　理科５００・社会５００（開成図書出版）」",
     "subject": "未分類",
     "grade": "未設定",
     "description": "新規追加されたファイル",
-    "url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/%E6%97%A5%E6%9C%AC%E5%8F%B2%E3%82%AF%E3%82%A4%E3%82%BA",
-    "size": "50.9KB",
-    "date": "2026/8/14"
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/理科____社会___解答用紙.pdf",
+    "size": "0.8MB",
+    "date": "2026/8/15"
   }
 ]
