@@ -157,5 +157,24 @@
     "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/四字熟語創作.odt.pdf",
     "size": "0.1MB",
     "date": "2026/8/16"
+  },
+  {
+    "id": "folder_1786816069136",
+    "type": "folder",
+    "title": "保健体育",
+    "parentId": "folder_1780404411568",
+    "subject": "新規フォルダ"
+  },
+  {
+    "id": 1786816080800,
+    "type": "file",
+    "parentId": "folder_1786816069136",
+    "title": "バレーボールの概要",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/バレーボール.odt",
+    "size": "0.0MB",
+    "date": "2026/8/16"
   }
 ]
