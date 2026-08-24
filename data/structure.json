@@ -33,6 +33,18 @@
     "subject": "新規フォルダ"
   },
   {
+    "id": 1787598822215,
+    "type": "file",
+    "parentId": "folder_1787544418413",
+    "title": "社会問１",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/_社会_問1.json",
+    "size": "0.1MB",
+    "date": "2026/8/25"
+  },
+  {
     "id": "folder_1786803161188",
     "type": "folder",
     "title": "その他",
@@ -202,5 +214,89 @@
     "title": "高校生",
     "parentId": null,
     "subject": "新規フォルダ"
+  },
+  {
+    "id": 1787598848447,
+    "type": "file",
+    "parentId": "folder_1787544418413",
+    "title": "社会問２",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/_社会_問2.json",
+    "size": "0.1MB",
+    "date": "2026/8/25"
+  },
+  {
+    "id": 1787598850653,
+    "type": "file",
+    "parentId": "folder_1787544418413",
+    "title": "社会問３",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/_社会_問3.json",
+    "size": "0.1MB",
+    "date": "2026/8/25"
+  },
+  {
+    "id": 1787598851024,
+    "type": "file",
+    "parentId": "folder_1787544418413",
+    "title": "社会問４",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/_社会_問4.json",
+    "size": "0.1MB",
+    "date": "2026/8/25"
+  },
+  {
+    "id": 1787598851257,
+    "type": "file",
+    "parentId": "folder_1787544418413",
+    "title": "社会問５",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/_社会_問5.json",
+    "size": "0.1MB",
+    "date": "2026/8/25"
+  },
+  {
+    "id": 1787598851460,
+    "type": "file",
+    "parentId": "folder_1787544418413",
+    "title": "社会問６",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/_社会_問6.json",
+    "size": "0.1MB",
+    "date": "2026/8/25"
+  },
+  {
+    "id": 1787598851667,
+    "type": "file",
+    "parentId": "folder_1787544418413",
+    "title": "社会問７",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "https://raw.githubusercontent.com/The-datebase-of-selfdriven/PDF/refs/heads/main/files/_社会_問7.json",
+    "size": "0.1MB",
+    "date": "2026/8/25"
+  },
+  {
+    "id": 1787598851900,
+    "type": "file",
+    "parentId": "folder_1787544418413",
+    "title": "新規ファイル",
+    "subject": "未分類",
+    "grade": "未設定",
+    "description": "新規追加されたファイル",
+    "url": "",
+    "size": "0.0MB",
+    "date": "2026/8/25"
   }
 ]
